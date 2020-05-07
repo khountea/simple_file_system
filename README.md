@@ -1,6 +1,6 @@
 # Simple File System
 
-A simple file system by Sokhountea Sy
+A simple file system
 
 ## Brief Into
 
